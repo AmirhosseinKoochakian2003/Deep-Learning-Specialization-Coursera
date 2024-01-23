@@ -1,4 +1,4 @@
-# Deep Learning Specialization on Coursera (offered by DeepLearning.AI)
+# Deep Learning Specialization
 
 Programming assignments from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by DeepLearning.AI on Coursera.
 
