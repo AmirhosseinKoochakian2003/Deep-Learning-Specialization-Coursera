@@ -1,6 +1,6 @@
 # Deep Learning Specialization on Coursera (offered by deeplearning.ai)
 
-Programming assignments from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by deeplearning.ai on Coursera.
+Programming assignments from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by DeepLearning.AI on Coursera.
 
 Instructor : [Andrew Ng](http://www.andrewng.org/)
 
