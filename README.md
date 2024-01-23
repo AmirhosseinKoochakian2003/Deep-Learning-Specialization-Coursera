@@ -85,6 +85,8 @@ Instructor : [Andrew Ng](http://www.andrewng.org/)
 - [Trigger Word Detection](https://github.com/AmirhosseinKoochakian2003/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/Week%203/Trigger%20Word%20Detection)
 
 ### Week 4
+- [Transformers Architecture with TensorFlow](https://github.com/AmirhosseinKoochakian2003/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/Week%204/Transformers%20Architecture%20with%20TensorFlow)
+
 - [Transformer Pre-processing](https://github.com/AmirhosseinKoochakian2003/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/Week%204/Transformer%20Pre-processing)
 
 - [Transformer Network Application Named-Entity Recognition](https://github.com/AmirhosseinKoochakian2003/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/Week%204/Transformer%20Network%20Application%20Named-Entity%20Recognition)
